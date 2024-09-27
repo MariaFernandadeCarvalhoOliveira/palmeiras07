@@ -12,3 +12,4 @@ let media = function(x, y, z ){
     return (x+y+z)/3;
 }
 console.log(media(1,2,3));
+parseInt(prompt())
