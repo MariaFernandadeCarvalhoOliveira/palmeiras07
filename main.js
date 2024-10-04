@@ -30,7 +30,7 @@
 // }
 for (let index = 0; index < estados.length; index++) {
     const element = array[index];
-    console.log
+    console.log(estados[index]);
 }
 
 
