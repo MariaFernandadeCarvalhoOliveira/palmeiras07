@@ -32,5 +32,10 @@ for (let index = 0; index < estados.length; index++) {
     const element = array[index];
     console.log(estados[index]);
 }
-
-
+let idade=7
+if(idae>17){
+console.log('Pode digitar');
+}
+else{
+console.log('Ilegal dirigir');
+}
