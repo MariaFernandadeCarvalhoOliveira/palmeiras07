@@ -16,7 +16,7 @@
 // // let num2 = parseInt(prompt('Qual o número?'));
 // // let num3 = parseInt(prompt('Qual o número?'));
 // // function media (x,y,z){
-// //     return(x+y+z)/z;
+// //     return(x+y+z)/3;
 // // }
 // // console.log(media(1,2,3));
 // document.write(mediaTresvalores);
